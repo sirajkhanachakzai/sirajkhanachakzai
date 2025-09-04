@@ -9,13 +9,13 @@
 - [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
  -->
 
-🤵 Founder & CEO of @techviochats @internee.pk 🤖
+🤵 Exploring IT
 	
-👨‍💻 AI Engineer CargoAI
+👨‍💻 Web & Mobile App Developer
 	
-💸 Help 80+ Clients via Generative AI & Automation
+💸 Ai & ChatBot Development
 
-📧 Book free 1v1 consultation https://linktr.ee/hammadbinnadeem
+📧 BS Computer Science
  
 <h2>Tech Stack</h2>
 
