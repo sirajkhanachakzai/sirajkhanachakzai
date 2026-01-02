@@ -62,48 +62,38 @@
 <!-- ================= PROJECTS ================= -->
 <h2 align="center">🌟 Featured Projects</h2>
 
-<table align="center" width="100%" cellspacing="12">
+<table align="center" width="90%" cellspacing="8">
   <tr>
-    <td width="50%" align="center">
-      <h3>🍽️ Local Food Club App</h3>
-      <p>
-        Offline-first café management system with billing,
-        inventory separation, and dual-security controls.
-      </p>
-      <p><b>Tech:</b> Python • Local Storage • Security Logic</p>
+    <td align="center" width="25%">
+      🍽️<br>
+      <b>Local Food Club App</b><br>
+      <sub>Offline café system, billing & security</sub><br>
+      <sub><b>Python</b></sub>
     </td>
-    <td width="50%" align="center">
-      <h3>🤖 AI Chatbot Platform</h3>
-      <p>
-        NLP-powered chatbot system integrating modern AI models
-        for automation and real-world interactions.
-      </p>
-      <p><b>Tech:</b> Dialogflow • OpenAI • Gemini • Automation</p>
-    </td>
-  </tr>
 
-  <tr>
-    <td width="50%" align="center">
-      <h3>🌐 Modern Web Applications</h3>
-      <p>
-        Performance-focused, responsive web applications
-        built with scalable frontend architecture.
-      </p>
-      <p><b>Tech:</b> React • Next.js • JavaScript</p>
+    <td align="center" width="25%">
+      🤖<br>
+      <b>AI Chatbot Platform</b><br>
+      <sub>NLP bots & automation workflows</sub><br>
+      <sub><b>Dialogflow · OpenAI · Gemini</b></sub>
     </td>
-    <td width="50%" align="center">
-      <h3>⚙️ AI Automation Tools</h3>
-      <p>
-        Automation workflows designed to reduce manual effort
-        and embed AI into daily software processes.
-      </p>
-      <p><b>Tech:</b> Python • AI APIs • Automation</p>
+
+    <td align="center" width="25%">
+      🌐<br>
+      <b>Modern Web Apps</b><br>
+      <sub>Responsive, scalable UI systems</sub><br>
+      <sub><b>React · Next.js</b></sub>
+    </td>
+
+    <td align="center" width="25%">
+      ⚙️<br>
+      <b>AI Automation Tools</b><br>
+      <sub>Productivity & workflow automation</sub><br>
+      <sub><b>Python · AI APIs</b></sub>
     </td>
   </tr>
 </table>
-
 <hr>
-
 <!-- ================= ROADMAP ================= -->
 <h2 align="center">🧭 Learning & Growth Roadmap</h2>
 
