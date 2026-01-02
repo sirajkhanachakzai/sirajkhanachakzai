@@ -62,15 +62,8 @@
 <!-- ================= FEATURED PROJECTS ================= -->
 <h2 align="center">🌟 Featured Projects</h2>
 
-<table align="center" width="90%" cellspacing="8">
+<table align="center" width="90%">
   <tr>
-    <td align="center" width="25%">
-      🍽️<br>
-      <b>Local Food Club App</b><br>
-      <sub>Offline café system, billing & security</sub><br>
-      <sub><b>Python</b></sub>
-    </td>
-
     <td align="center" width="25%">
       🤖<br>
       <b>AI Chatbot Platform</b><br>
@@ -91,10 +84,16 @@
       <sub>Productivity & workflow automation</sub><br>
       <sub><b>Python · AI APIs</b></sub>
     </td>
+
+    <td align="center" width="25%">
+      🍽️<br>
+      <b>Local Food Club App</b><br>
+      <sub>Offline café system, billing & security</sub><br>
+      <sub><b>Python</b></sub>
+    </td>
   </tr>
 </table>
 
-<hr>
 
 <!-- ================= ROADMAP ================= -->
 <h2 align="center">🧭 Learning & Growth Roadmap</h2>
