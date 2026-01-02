@@ -93,20 +93,8 @@
     </td>
   </tr>
 </table>
-<hr>
-<!-- ================= ROADMAP ================= -->
-<h2 align="center">🧭 Learning & Growth Roadmap</h2>
 
-<p align="center">
-✔ Data Structures & Algorithms<br>
-✔ Advanced React & JavaScript Patterns<br>
-✔ Backend APIs & Authentication<br>
-✔ System Design Fundamentals<br>
-✔ AI Agents & Automation Pipelines<br>
-✔ Cloud & Deployment Basics
-</p>
 
-<hr>
 
 <!-- ================= STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
