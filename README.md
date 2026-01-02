@@ -60,36 +60,45 @@
 <hr>
 
 <!-- ================= FEATURED PROJECTS ================= -->
+
 <h2 align="center">🌟 Featured Projects</h2>
 
-<table align="center" width="90%">
+<table align="center" width="90%" style="border-spacing: 20px;">
   <tr>
     <td align="center" width="25%">
-      🤖<br>
-      <b>AI Chatbot Platform</b><br>
-      <sub>NLP bots & automation workflows</sub><br>
-      <sub><b>Dialogflow · OpenAI · Gemini</b></sub>
+      <h3>🤖 AI Chatbot Platform</h3>
+      <p style="margin: 5px 0; color: #6c757d;">NLP bots & automation workflows</p>
+      <p style="margin: 2px 0;">
+        <b>Technologies:</b><br>
+        <code>Dialogflow</code> · <code>OpenAI</code> · <code>Gemini</code>
+      </p>
     </td>
 
     <td align="center" width="25%">
-      🌐<br>
-      <b>Modern Web Apps</b><br>
-      <sub>Responsive, scalable UI systems</sub><br>
-      <sub><b>React · Next.js</b></sub>
+      <h3>🌐 Modern Web Apps</h3>
+      <p style="margin: 5px 0; color: #6c757d;">Responsive, scalable UI systems</p>
+      <p style="margin: 2px 0;">
+        <b>Technologies:</b><br>
+        <code>React</code> · <code>Next.js</code>
+      </p>
     </td>
 
     <td align="center" width="25%">
-      ⚙️<br>
-      <b>AI Automation Tools</b><br>
-      <sub>Productivity & workflow automation</sub><br>
-      <sub><b>Python · AI APIs</b></sub>
+      <h3>⚙️ AI Automation Tools</h3>
+      <p style="margin: 5px 0; color: #6c757d;">Productivity & workflow automation</p>
+      <p style="margin: 2px 0;">
+        <b>Technologies:</b><br>
+        <code>Python</code> · <code>AI APIs</code>
+      </p>
     </td>
 
     <td align="center" width="25%">
-      🍽️<br>
-      <b>Local Food Club App</b><br>
-      <sub>Offline café system, billing & security</sub><br>
-      <sub><b>Python</b></sub>
+      <h3>🍽️ Local Food Club App</h3>
+      <p style="margin: 5px 0; color: #6c757d;">Offline café system, billing & security</p>
+      <p style="margin: 2px 0;">
+        <b>Technologies:</b><br>
+        <code>Python</code>
+      </p>
     </td>
   </tr>
 </table>
