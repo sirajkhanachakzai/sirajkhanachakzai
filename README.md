@@ -43,7 +43,7 @@
     <td align="center"><img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="60"><br><b>Dialogflow</b></td>
     <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="60"><br><b>OpenAI</b></td>
     <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="60"><br>
+      <img src="[https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg](https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png)" width="60"><br>
       <b>Gemini AI</b>
     </td>
   </tr>
@@ -121,10 +121,7 @@
 <!-- ================= STATS ================= -->
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirajkhanachakzai_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirajkhanachakzai&theme=tokyonight&hide_border=true" width="48%">
-</p>
+
 
 <hr>
 
