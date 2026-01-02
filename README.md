@@ -122,8 +122,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hammad-air&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-air&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirajkhanachakzai_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirajkhanachakzai&theme=tokyonight&hide_border=true" width="48%">
 </p>
 
 <hr>
@@ -132,7 +132,7 @@
 <h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hammad-air&theme=onestar&no-frame=true&row=1&column=6">
+  <img src="https://github-profile-trophy.vercel.app/?username=sirajkhanachakzai&theme=onestar&no-frame=true&row=1&column=6">
 </p>
 
 <hr>
@@ -153,7 +153,7 @@
 
 <!-- ================= FOOTER ================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hammad-air&label=Profile%20Views&color=blueviolet&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=sirajkhanachakzai&label=Profile%20Views&color=blueviolet&style=flat"/>
 </p>
 
 <p align="center">
