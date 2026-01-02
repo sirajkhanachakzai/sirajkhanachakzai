@@ -2,18 +2,14 @@
 
 <!-- HEADER -->
 <div align="center">
-  <h1>
-    Hi there, I'm <b>Siraj Khan Achakzai</b> 👋
-  </h1>
-  <p>
-    <i>Building intelligent, scalable & human-centered software</i>
-  </p>
+  <h1>Hi there, I'm <b>Siraj Khan Achakzai</b> 👋</h1>
+  <p><i>Crafting intelligent software with purpose, logic & impact</i></p>
 </div>
 
 <!-- TYPING EFFECT -->
 <p align="center">
   <a href="https://github.com/hammad-air">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+%26+Mobile+App+Developer;AI+%26+Chatbot+Engineer;MERN+Stack+Developer;Future+Computer+Scientist&font=Roboto&size=26&duration=3500&pause=600&center=true&width=600&height=50&color=eab676">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+%26+Mobile+App+Developer;AI+%26+Chatbot+Engineer;MERN+Stack+Developer;Future+Computer+Scientist&font=Roboto&size=26&duration=3500&pause=600&center=true&width=650&height=50&color=eab676">
   </a>
 </p>
 
@@ -60,6 +56,25 @@
 
 ---
 
+<!-- GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hammad-air&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hammad-air&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+<!-- TROPHIES -->
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hammad-air&theme=onestar&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
 <!-- CONNECT -->
 <h2 align="center">🌐 Connect with Me</h2>
 
@@ -68,10 +83,15 @@
     <img src="https://img.shields.io/badge/-SirajkhanAchakzai-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="mailto:sirajkhanachakzai67@gmail.com">
-    <img src="https://img.shields.io/badge/-sirajkhanachakzai67@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-sirajkhanachzai67@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
-<br>
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <i>“Great software is built with patience, discipline, and vision.”</i>
+</p>
 
 </body>
