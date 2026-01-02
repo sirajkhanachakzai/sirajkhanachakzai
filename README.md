@@ -60,6 +60,25 @@
 <hr>
 
 <!-- ================= FEATURED PROJECTS ================= -->
+## 🧰 Tech Stack
+
+<p align="center">
+  <!-- Core Languages -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+  
+  <!-- Web -->
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+  <!-- Frameworks -->
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+  <!-- AI & Tools -->
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Dialogflow" src="https://img.shields.io/badge/Dialogflow-26A969?style=for-the-badge&logo=dialogflow&logoColor=white" />
+</p>
 
 <!-- ================= ROADMAP ================= -->
 <h2 align="center">🧭 Learning & Growth Roadmap</h2>
