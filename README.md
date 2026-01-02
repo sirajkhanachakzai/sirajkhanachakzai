@@ -61,49 +61,6 @@
 
 <!-- ================= FEATURED PROJECTS ================= -->
 
-<h2 align="center">🌟 Featured Projects</h2>
-
-<table align="center" width="90%" style="border-spacing: 20px;">
-  <tr>
-    <td align="center" width="25%">
-      <h3>🤖 AI Chatbot Platform</h3>
-      <p style="margin: 5px 0; color: #6c757d;">NLP bots & automation workflows</p>
-      <p style="margin: 2px 0;">
-        <b>Technologies:</b><br>
-        <code>Dialogflow</code> · <code>OpenAI</code> · <code>Gemini</code>
-      </p>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🌐 Modern Web Apps</h3>
-      <p style="margin: 5px 0; color: #6c757d;">Responsive, scalable UI systems</p>
-      <p style="margin: 2px 0;">
-        <b>Technologies:</b><br>
-        <code>React</code> · <code>Next.js</code>
-      </p>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>⚙️ AI Automation Tools</h3>
-      <p style="margin: 5px 0; color: #6c757d;">Productivity & workflow automation</p>
-      <p style="margin: 2px 0;">
-        <b>Technologies:</b><br>
-        <code>Python</code> · <code>AI APIs</code>
-      </p>
-    </td>
-
-    <td align="center" width="25%">
-      <h3>🍽️ Local Food Club App</h3>
-      <p style="margin: 5px 0; color: #6c757d;">Offline café system, billing & security</p>
-      <p style="margin: 2px 0;">
-        <b>Technologies:</b><br>
-        <code>Python</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
 <!-- ================= ROADMAP ================= -->
 <h2 align="center">🧭 Learning & Growth Roadmap</h2>
 
@@ -119,14 +76,7 @@
 <hr>
 
 <!-- ================= GITHUB STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sirajkhanachakzai&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirajkhanachakzai&theme=tokyonight&hide_border=true" width="48%">
-</p>
-
-<hr>
 
 <!-- ================= GITHUB HIGHLIGHTS ================= -->
 <h2 align="center">🏆 GitHub Highlights</h2>
