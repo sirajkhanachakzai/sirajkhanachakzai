@@ -6,9 +6,9 @@
   <p><i>Building intelligent software with clarity, discipline, and purpose</i></p>
 </div>
 
-<!-- ================= TYPING ================= -->
+<!-- ================= TYPING EFFECT ================= -->
 <p align="center">
-  <a href="https://github.com/hammad-air">
+  <a href="https://github.com/sirajkhanachakzai">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+%26+Mobile+App+Developer;AI+%26+Chatbot+Engineer;MERN+Stack+Developer;Computer+Science+Student&font=Roboto&size=26&duration=3500&pause=600&center=true&width=650&height=50&color=eab676">
   </a>
 </p>
@@ -30,36 +30,36 @@
 
 <table align="center" width="100%" cellspacing="12">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"><br><b>Python</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"><br><b>C++</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"><br><b>HTML5</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"><br><b>CSS3</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"><br><b>JavaScript</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"><br><b>Python</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"><br><b>C++</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55"><br><b>HTML5</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55"><br><b>CSS3</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"><br><b>JavaScript</b></td>
   </tr>
 
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"><br><b>React</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="60"><br><b>Next.js</b></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="60"><br><b>Dialogflow</b></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="60"><br><b>OpenAI</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55"><br><b>React</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="55"><br><b>Next.js</b></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="55"><br><b>Dialogflow</b></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="55"><br><b>OpenAI</b></td>
     <td align="center">
-      <img src="[https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg](https://www.gstatic.com/lamda/images/gemini_aurora_thumbnail_4g_e74822ff0ca4259beb718.png)" width="60"><br>
+      <img src="https://www.vectorlogo.zone/logos/google_gemini/google_gemini-icon.svg" width="55"><br>
       <b>Gemini AI</b>
     </td>
   </tr>
 
   <tr>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="60"><br><b>AI Automation</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60"><br><b>Git</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="60"><br><b>GitHub</b></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"><br><b>VS Code</b></td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60"><br><b>Web Apps</b></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/4712/4712035.png" width="55"><br><b>AI Automation</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="55"><br><b>Git</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="55"><br><b>GitHub</b></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"><br><b>VS Code</b></td>
+    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="55"><br><b>Web Apps</b></td>
   </tr>
 </table>
 
 <hr>
 
-<!-- ================= PROJECTS ================= -->
+<!-- ================= FEATURED PROJECTS ================= -->
 <h2 align="center">🌟 Featured Projects</h2>
 
 <table align="center" width="90%" cellspacing="8">
@@ -94,20 +94,40 @@
   </tr>
 </table>
 
+<hr>
 
+<!-- ================= ROADMAP ================= -->
+<h2 align="center">🧭 Learning & Growth Roadmap</h2>
 
-<!-- ================= STATS ================= -->
-<h2 align="center">📊 GitHub Stats</h2>
-
-
+<p align="center">
+✔ Data Structures & Algorithms &nbsp;•&nbsp;
+✔ Advanced React & JavaScript &nbsp;•&nbsp;
+✔ Backend APIs & Authentication <br>
+✔ System Design Fundamentals &nbsp;•&nbsp;
+✔ AI Agents & Automation &nbsp;•&nbsp;
+✔ Cloud & Deployment Basics
+</p>
 
 <hr>
 
-<!-- ================= TROPHIES ================= -->
-<h2 align="center">🏆 GitHub Achievements</h2>
+<!-- ================= GITHUB STATS ================= -->
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sirajkhanachakzai&theme=onestar&no-frame=true&row=1&column=6">
+  <img src="https://github-readme-stats.vercel.app/api?username=sirajkhanachakzai&show_icons=true&theme=tokyonight&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sirajkhanachakzai&theme=tokyonight&hide_border=true" width="48%">
+</p>
+
+<hr>
+
+<!-- ================= GITHUB HIGHLIGHTS ================= -->
+<h2 align="center">🏆 GitHub Highlights</h2>
+
+<p align="center">
+  🧠 Consistent Learner &nbsp;•&nbsp;
+  💻 Active Contributor &nbsp;•&nbsp;
+  🚀 Project-Focused &nbsp;•&nbsp;
+  📈 Continuous Improvement
 </p>
 
 <hr>
