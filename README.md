@@ -60,8 +60,8 @@
 <hr>
 
 <!-- ================= FEATURED PROJECTS ================= -->
-## 🧰 Tech Stack
 
+<h2 align="center">📌 Tech Stack</h2>
 <p align="center">
   <!-- Core Languages -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
